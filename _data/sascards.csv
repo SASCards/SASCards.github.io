@@ -1,4 +1,4 @@
 objectid,parentid,title,date,date-is-approximate?,creator,recipient,description,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,rights,rightsstatement,type,format,language,relation,filename,identifier,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-sas0001,,Millenium Comics,2024,yes,,,Bookstore specializing in comics,youtube video,store;books;comics,"Almería, Spain",36.838094,-2.462739,,,,,,,,,multiple,spa,,,sas0001,multiple,,/objects/0001a.jpeg,/objects/0001a.jpeg,,
-sas0001a,sas0001,Front,,,,,,,,,,,,,,,,,,,image/jpeg,,,,,image,/objects/0001a.jpeg,/objects/0001a.jpeg,/objects/0001a.jpeg,,
-sas0001b,sas0001,Back,,,,,,,,,,,,,,,,,,,image/jpeg,,,,,image,/objects/0001b.jpeg,/objects/0001b.jpeg,/objects/0001b.jpeg,,
+sas1_001,,Millenium Comics,2024,yes,,,Bookstore specializing in comics,,store;books;comics,"Almería, Spain",36.838094,-2.462739,,,,,,,,,multiple,spa,,,sas0001,multiple,,/objects/0001a.jpeg,/objects/0001a.jpeg,,
+sas1_001a,sas1_001,Front,,,,,,,,,,,,,,,,,,,image/jpeg,,,,,image,/objects/0001a.jpeg,/objects/0001a.jpeg,/objects/0001a.jpeg,,
+sas1_001b,sas1_001,Back,,,,,,,,,,,,,,,,,,,image/jpeg,,,,,image,/objects/0001b.jpeg,/objects/0001b.jpeg,/objects/0001b.jpeg,,
