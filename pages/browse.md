@@ -4,4 +4,6 @@ layout: browse
 permalink: /browse.html
 ---
 
-## Browse Items
+## Browse Cards
+
+Click on any entry to see all the information we recorded for that card.

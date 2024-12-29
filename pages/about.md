@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://images.pexels.com/photos/8668775/pexels-photo-8668775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About SAS Cards; Buy, trade and contact" %}
 
-## About CollectionBuilder CSV
+## About SAS Cards
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This digital record has a primary objective and a secondary objective that is a by-product of the original:
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+- The **primary objective** is  to help me manage my growing collection of business cards. It is very frustrating to find a card, have the card sound vaguely familiar, and have to check card by card to see if it is a duplicate. My collection method is simple: two cards are different if there is even **the slightest difference in printing** on them. For example, two business cards from a well-known restaurant chain, which at first glance look the same, are different to me because the address line on the back of the cards is different. This makes checking if the cards I add to my collection are duplicates an increasingly arduous task. With this digital register, I can check that in less than 5 seconds.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+- The **secondary objective** is that you, the visitor of this website, can **see my collection** and **access my metadata**. This section may not be up to date (if it is the case, let me know by e-mail, please!), but when I wrote this About section, the images of the cards were not available online, only to me locally. The reason has to do with GitHub storage limits. I hope to find a solution for this soon.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## Buy, trade and contact
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+I am open to buy, sell or exchange business cards. If you have any interest in this, you can contact me at:
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+`sergioaliaseg[at]gmail[dot]com`
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The e-mail is written that way to avoid spam bots. Replace `[at]` with "@" and `[dot]` with "."

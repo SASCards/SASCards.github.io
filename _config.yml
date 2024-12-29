@@ -23,7 +23,7 @@ title: SAS Cards
 tagline: A gaze into my business cards collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "SAS Cards is a digital registers of my growing business cards collection, aimed to make my life easier."
+description: "SAS Cards is a digital register of my growing business cards collection."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: visit cards; business cards; collection
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -50,10 +50,10 @@ metadata: sascards
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Sergio Alías-Segura"
+organization-link: https://github.com/SergioAlias
+organization-logo-banner: icon_long.png
+organization-logo-nav: icon.png
 
 ##########
 # ROBOTS EXCLUDE

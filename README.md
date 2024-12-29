@@ -1,3 +1,5 @@
+# <img src="./icon.png" width="150">
+
 # SAS Cards Collection
 
 > ⚠️ This repo is still incomplete. This banner will be removed when the webpage is ready and populated with data.
