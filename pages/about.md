@@ -18,7 +18,7 @@ This digital record has a primary objective and a secondary objective that is a 
 
 - The **primary objective** is  to help me manage my growing collection of business cards. It is very frustrating to find a card, have the card sound vaguely familiar, and have to check card by card to see if it is a duplicate. My collection method is simple: two cards are different if there is even **the slightest difference in printing** on them. For example, two business cards from a well-known restaurant chain, which at first glance look the same, are different to me because the address line on the back of the cards is different. This makes checking if the cards I add to my collection are duplicates an increasingly arduous task. With this digital register, I can check that in less than 5 seconds.
 
-- The **secondary objective** is that you, the visitor of this website, can **see my collection** and **access my metadata**. This section may not be up to date (if it is the case, let me know by e-mail, please!), but when I wrote this About section, the images of the cards were not available online, only to me locally. The reason has to do with GitHub storage limits. I hope to find a solution for this soon.
+- The **secondary objective** is that you, the visitor of this website, can **see my collection** and **access my metadata**. Images are stored outside GiHub using Google Drive. If links are broken (i.e. images are not loading) let me know by e-mail, please!
 
 ## Buy, trade and contact
 
