@@ -1,8 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date,,,,Date
 creator,Creator,,,
-shape,Card shape,true,true,Shape
-fits-cardbook,Regular cardbook,true,true,Fits in a cardbook
+added,,,true,Recently added
 subject,,true,,
 location,,true,,
-identifier,,,true,Identifier
+firstadded,,,true,First added

@@ -1,10 +1,8 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-date,Date,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 shape,Shape,true,,,
-fits-cardbook,Regular cardbook,true,,,
 subject,Tags,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
